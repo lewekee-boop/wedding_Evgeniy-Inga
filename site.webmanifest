@@ -1,0 +1,16 @@
+{
+  "name": "Инга и Евгений | 06.08.2026",
+  "short_name": "Инга и Евгений",
+  "description": "Свадебное приглашение Инги и Евгения.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFF3DF",
+  "theme_color": "#644D42",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
